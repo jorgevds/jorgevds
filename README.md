@@ -6,7 +6,7 @@ My GitHub profile is a little eclectic, messy, confusing, befuddling, and overal
 
 ### I've worked on
 
-Front end web apps, back end web apps, and mobile native apps. I also work on video games on and off in my spare time, and have worked in Unity, Godot, en even just React Native.
+Front end web apps, back end web apps, and mobile native apps. I've streamlined containerization flows in Dockerfiles and compose files, and have improved a substantial amount of CI/CD pipelines. I also work on video games on and off in my spare time, and have worked in Unity, Godot, and React Native.
 
 ### I would like to work on
 
